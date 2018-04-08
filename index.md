@@ -1,3 +1,11 @@
-<h1>Type in Arabic</h1>
-
-<iframe src="https://arabic-keyboard.online/embed/arabic-keyboard.html"></iframe>
+<html>
+ 
+<title>TheArabicKeyboard</title>
+  
+<body>
+  
+  <h1>Welcome to our Community!</h1>
+  
+</body>
+</html>
+  
